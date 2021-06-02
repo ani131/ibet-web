@@ -1,0 +1,113 @@
+{
+
+  "question": [
+
+    "Feel comfortable around others",
+
+    "Don’t like to draw attention to myself",
+
+    "Don’t mind being the center of attention",
+
+    "Keep in the background",
+
+
+
+    "Am interested in people",
+
+    "Am not interested in other people's problems",
+
+    "Sympathize with others' feelings",
+
+    "Insult people",
+
+
+
+    "Am always prepared",
+
+    "Pay attention to details",
+
+    "Often forget to put things back in their proper place",
+
+    "Follow a schedule",
+
+
+
+    "Get upset easily",
+
+    "Am relaxed most of the time",
+
+    "Get stressed out easily",
+
+    "Seldom feel blue",
+
+
+
+    "Am not interested in abstract ideas",
+
+    "Spend time reflecting on things",
+
+    "Do not have a good imagination",
+
+    "Have a rich vocabulary",
+
+
+
+    "Have often been bothered by having little interest or pleasure in doing things",
+
+    "Have often been bothered by feeling down, depressed, or hopeless",
+
+    "Have often been bothered by feeling nervous, anxious, or on edge",
+
+    "Have often been bothered by not being able to stop or control worrying",
+
+    
+    "Liked this quiz",
+
+    "DONE! Click see your score for feedback"
+
+  ],
+
+  "weights": [
+    [0, 0, 0, 0, 0, 0],
+    
+    [1, 0.5, 0, 0, 0, 0],
+    [-1, 0, 0, 0, 0, 0],
+    [1, 0, 0, 0, 0, 0],
+    [-1, 0, 0, 0, 0, 0],
+    
+    [0.75, 1, 0, 0, 0, 0],
+    [0, -1, 0, 0, 0, 0],
+    [0, 1, 0, 0, 0, 0],
+    [0, -1, 0, 0, 0, 0],
+    
+    [0, 0, 1, 0, 0, 0],
+    [0, 0, 1, 0, 0, 0],
+    [0, 0, -1, 0, 0, 0],
+    [0, 0, 1, 0, 0, 0],
+    
+    [0, 0, 0, 1, 0, 0],
+    [0, 0, 0, -1, 0, 0],
+    [0, 0, 0, 1, 0, -0.5],
+    [0, 0, 0, -1, 0, 0.5],
+    
+    [0, 0, 0, 0, -1, 0],
+    [0, 0, 0, 0, 1, 0],
+    [0, 0, 0, 0, -1, 0],
+    [0, 0, 0, 0, 1, 0],
+    
+    [0, 0, 0, 0, 0, -1],
+    [0, 0, 0, 0, 0, -1],
+    [0, 0, 0, 0, 0, -1],
+    [0, 0, 0, 0, 0, -1],
+    
+    [0, 0, 0, 0, 0, 0]
+  ], 
+
+  "biases": [
+    [0, 0, 0, 0, 0, 0]
+  ],
+
+  "scales": [
+    [0.36, 0.36, 0.36, 0.36, 0.36, 0.36]
+  ]
+}
