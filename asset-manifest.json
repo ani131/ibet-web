@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ibet-web/static/css/main.566c9aff.chunk.css",
-    "main.js": "/ibet-web/static/js/main.8d29730d.chunk.js",
-    "main.js.map": "/ibet-web/static/js/main.8d29730d.chunk.js.map",
+    "main.js": "/ibet-web/static/js/main.d5a4bd33.chunk.js",
+    "main.js.map": "/ibet-web/static/js/main.d5a4bd33.chunk.js.map",
     "runtime-main.js": "/ibet-web/static/js/runtime-main.08bbdeeb.js",
     "runtime-main.js.map": "/ibet-web/static/js/runtime-main.08bbdeeb.js.map",
     "static/js/2.b4c20fdb.chunk.js": "/ibet-web/static/js/2.b4c20fdb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.08bbdeeb.js",
     "static/js/2.b4c20fdb.chunk.js",
     "static/css/main.566c9aff.chunk.css",
-    "static/js/main.8d29730d.chunk.js"
+    "static/js/main.d5a4bd33.chunk.js"
   ]
 }
